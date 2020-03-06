@@ -1,2 +1,2 @@
 function(x,y)
-    blank
+    x=8
